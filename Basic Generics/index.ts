@@ -24,6 +24,6 @@ interface sunoJi<T> {
 const sunoJi: sunoJi<string> = {
   whatJi: "Love you ji",
 };
-const sunoJiPlease: sunoJi<string> = {
-  whatJi: "Love you ji",
+const sunoJiPlease: sunoJi<number> = {
+  whatJi: 1,
 };
